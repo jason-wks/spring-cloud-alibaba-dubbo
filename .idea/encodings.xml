@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-consumer/spring-cloud-alibaba-dubbo-consumer-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-provider/spring-cloud-alibaba-dubbo-provider-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-examples/spring-cloud-alibaba-dubbo-provider/spring-cloud-alibaba-dubbo-provider-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-nacos" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-alibaba-dubbo-starter" charset="UTF-8" />
+  </component>
+</project>

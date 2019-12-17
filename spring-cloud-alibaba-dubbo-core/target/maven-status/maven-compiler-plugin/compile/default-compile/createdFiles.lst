@@ -1,0 +1,5 @@
+com\alibaba\dubbo\config\spring\beans\factory\annotation\DubboFeignBuilder.class
+com\alibaba\dubbo\config\spring\beans\factory\annotation\FeignClientToDubboProviderBeanPostProcessor.class
+com\alibaba\dubbo\config\spring\beans\factory\annotation\FeignClientToDubboProviderBeanPostProcessor$1DefaultServiceClass.class
+com\ys\alibaba\dubbo\core\SpringCloudAlibabaDubboAutoConfiguration.class
+com\alibaba\dubbo\config\spring\beans\factory\annotation\DubboFeignBuilder$DefaultReferenceClass.class

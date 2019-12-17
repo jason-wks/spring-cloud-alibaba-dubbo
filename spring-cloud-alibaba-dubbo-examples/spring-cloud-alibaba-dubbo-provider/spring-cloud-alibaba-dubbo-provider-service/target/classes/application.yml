@@ -1,0 +1,29 @@
+server:
+  port: 10101
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
+  application:
+    name: provider
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 192.168.99.4:18848
+
+dubbo:
+  application:
+    name: provider
+  registry:
+    address: nacos://192.168.99.4:18848
+  scan:
+    base-packages: com.ys.alibaba.dubbo.provider.service
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+
+
